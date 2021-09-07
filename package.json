@@ -1,0 +1,24 @@
+{
+  "name": "Blog-App-Server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js --ignore client/",
+    "sample": "node ./dev-data/data/import-dev-data.js",
+    "blowitallaway": "node ./dev-data/data/import-dev-data.js --delete"
+  },
+  "keywords": [],
+  "author": "Emmanuel Adebayo",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.21.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "mongoose": "^5.11.16"
+  }
+}

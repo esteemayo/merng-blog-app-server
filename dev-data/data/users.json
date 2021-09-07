@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "60272af33d8ee11934a40022",
+    "name": "Mary Doe",
+    "username": "mdoe",
+    "email": "mdoe@example.com",
+    "password": "$2a$12$kScySse/13/0drJojkxUz.PrNIVuiK/8SjXWovwDyJbbT2NqWHyBa",
+    "createdAt": "2021-02-12T18:47:17.913Z",
+    "__v": 0
+  },
+  {
+    "_id": "60272b473d8ee11934a40023",
+    "name": "John Doe",
+    "username": "jdoe",
+    "email": "jdoe@example.com",
+    "password": "$2a$12$uh5reAxeNat1EqNfJnBpEu.tzSHbsTkpjstLjLmWCe2ime4KzYn1y",
+    "createdAt": "2021-02-13T18:47:17.913Z",
+    "__v": 0
+  },
+  {
+    "_id": "6027336c221fd91110bda0b2",
+    "name": "Lourdes Browning",
+    "username": "loulou",
+    "email": "loulou@example.com",
+    "password": "$2a$12$72gI12tQS7VyI54Fh2daHOsJBwuSGflOarxSLL4R3DI7thxZZTVFq",
+    "createdAt": "2021-02-13T01:47:17.913Z",
+    "__v": 0
+  },
+  {
+    "_id": "60273435151e382bfcd9509f",
+    "name": "Sam Smith",
+    "username": "sam",
+    "email": "sam@example.com",
+    "password": "$2a$12$6YUlbGoTd1SukU7lG989..FTD94pCJQWiMbLPUDXqKtywqPZbwIiS",
+    "createdAt": "2021-02-13T02:03:23.913Z",
+    "__v": 0
+  },
+  {
+    "_id": "60315935b4c834137c28a621",
+    "name": "Anne Alexandra",
+    "username": "annie",
+    "email": "annie@example.com",
+    "password": "$2a$12$Dr8Djo/qdzc/ZO.ZPqlq8.ejB.HtoUzR3TDdaQWUuNNgUjOdYeWhq",
+    "createdAt": "2021-02-20T18:47:17.913Z",
+    "__v": 0
+  },
+  {
+    "_id": "6031c0b3bf7b801a680b2624",
+    "name": "Emmanuel Adebayo",
+    "username": "esteem_ayo",
+    "email": "eadebayo15@gmail.com",
+    "password": "$2a$12$K/gyl5CLGz4J3hvbEvXGh.AwYiYzEqpoYg5QBgy/wFHF205rSczsy",
+    "createdAt": "2021-02-21T02:08:51.447Z",
+    "__v": 0
+  },
+  {
+    "_id": "60325a60bf7b801a680b2625",
+    "name": "Emmanuel Adebayo",
+    "username": "esteemayo",
+    "email": "esteemdesign19@gmail.com",
+    "password": "$2a$12$EaCd6dK8MSJ7hNQRFtrH9O8sn5zP/ZyWWkcoHceptpoLQviCN2Ho.",
+    "createdAt": "2021-02-21T13:04:32.269Z",
+    "__v": 0
+  },
+  {
+    "_id": "60325fd4bf7b801a680b2626",
+    "name": "Kate Morrison",
+    "username": "kate",
+    "email": "kate@example.com",
+    "password": "$2a$12$jqA4BMbcptKnvxPDCMLdGeWazNab1tX0rAtSJu6bFbhefVoHfPx7y",
+    "createdAt": "2021-02-21T13:27:48.531Z",
+    "__v": 0
+  }
+]
